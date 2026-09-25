@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-radar",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Radar MCP — wraps the Radar Geocoding / Search API (radar.com)",
   "type": "module",
   "main": "src/index.ts",
@@ -24,5 +24,9 @@
   "devDependencies": {
     "typescript": "^5.9.3",
     "@cloudflare/workers-types": "^4.20260405.1"
+  },
+  "pipeworx": {
+    "sourceHash": "v1-c88a0688a59070119de5d7d7f028e2c8421742bd78b39afa8541c5a6ff22b274",
+    "sourceCommit": "00c836ddeaecbdd581dcfb0fb1842efea104006e"
   }
 }
